@@ -1,0 +1,19 @@
+# Project Requirements: Healthcare Clinical Analytics & 30-Day Readmission Prediction
+# Track: Data Analytics & AI (AICTE | IBM SkillsBuild Internship)
+# Python version: >=3.8
+
+# Core Data Manipulation & Mathematics
+numpy>=1.23.5
+pandas>=1.5.3
+scipy>=1.10.1
+
+# Data Visualization & Exploratory Analysis
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# Machine Learning, Preprocessing & Evaluation
+scikit-learn>=1.2.2
+
+# Interactive Environment
+jupyter>=1.0.0
+ipykernel>=6.25.0
